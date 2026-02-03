@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Happy Blessed Birthday</title>
+  <style>
+    body {
+      background: linear-gradient(135deg, #ffe6f0, #fff0cc);
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      font-family: Arial, sans-serif;
+    }
+
+    .card {
+      background-color: white;
+      padding: 30px;
+      border-radius: 20px;
+      text-align: center;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+      max-width: 500px;
+    }
+
+    h1 {
+      color: #d6336c;
+    }
+
+    p {
+      font-size: 18px;
+      color: #444;
+    }
+
+    .heart {
+      font-size: 40px;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="card">
+    <div class="heart">🎉❤️🎂</div>
+    <h1>Happy Blessed Birthday</h1>
+    <h2>For Mamah</h2>
+    <p>
+      It cip khi awng TOPA na khansau<br>
+      cidam na thupha pia ta hen maw
+    </p>
+  </div>
+
+</body>
+</html>
